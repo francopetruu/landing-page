@@ -67,6 +67,10 @@ img {
     animation: moveLeft 1s ease-in;
 }
 
+.texts p {
+    animation: moveRight 1s ease-in;
+}
+
 .texts a {
     display: inline-block;
     color: #fff;
